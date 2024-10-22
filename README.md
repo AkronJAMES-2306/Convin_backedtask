@@ -1,4 +1,4 @@
-# Convin_backedtask
+# Convin_backendtask
 Backend Intern Task to Design and implement a backend for a daily-expenses sharing application.
 
 
@@ -41,5 +41,5 @@ Make sure you have the following installed:
    Open your terminal or command prompt and run:
 
    ```bash
-   git https://github.com/AkronJAMES-2306/Convin_backedtask.git
+   git https://github.com/AkronJAMES-2306/Convin_backendtask.git
    cd expense-tracker
