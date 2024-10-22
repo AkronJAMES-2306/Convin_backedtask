@@ -46,3 +46,16 @@ Make sure you have the following installed:
    ```bash
    git https://github.com/AkronJAMES-2306/Convin_backendtask.git
    cd expense-tracker
+
+
+2. Install Requirements:
+   Use pip to install the required packages:
+   ```bash
+   pip install -r requirements.txt
+
+3. Run Migrations:
+   Set up the database by running:
+    ```bash
+    python manage.py migrate
+
+After setting up the project, we can review the code.
