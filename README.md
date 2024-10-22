@@ -1,5 +1,8 @@
 # Convin_backendtask
-Backend Intern Task to Design and implement a backend for a daily-expenses sharing application.
+Hello, I am Arvind Venkat Ramanan and here is my backend task
+
+Objective:-
+To Design and implement a backend for a daily-expenses sharing application.
 
 
 # Expense Tracker Application
