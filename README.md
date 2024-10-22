@@ -41,5 +41,5 @@ Make sure you have the following installed:
    Open your terminal or command prompt and run:
 
    ```bash
-   git clone https://github.com/yourusername/expense-tracker.git
+   git https://github.com/AkronJAMES-2306/Convin_backedtask.git
    cd expense-tracker
